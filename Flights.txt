@@ -1,0 +1,4 @@
+Flight No.: 1  From: MAK  To:DMM  Flight date: 2023-6-3 Departure time: 07:55  Arrival time: 10:00
+Flight No.: 1  From: MAK  To:AHB  Flight date: 2023-6-5 Departure time: 12:10  Arrival time: 13:35
+Flight No.: 1  From: MAK  To:TUU  Flight date: 2023-6-4 Departure time: 20:05  Arrival time: 21:35
+Flight No.: 1  From: MAK  To:RUH  Flight date: 2023-6-7 Departure time: 14:00  Arrival time: 15:50
