@@ -1,0 +1,9 @@
+
+-------------------------------------------------------FLIGHT INFORMATION-------------------------------------------------------------
+| Flight No.: 101 | From: MAK | To:RUH | Flight date: 2023-06-04 | Departure time: 05:00 | Arrival time: 06:40 | Price starts from 400 |
+| Flight No.: 102 | From: MAK | To:DMM | Flight date: 2023-06-03 | Departure time: 07:55 | Arrival time: 10:00 | Price starts from 500 |
+| Flight No.: 103 | From: MAK | To:AHB | Flight date: 2023-06-05 | Departure time: 12:10 | Arrival time: 13:35 | Price starts from 200 |
+| Flight No.: 104 | From: MAK | To:TUU | Flight date: 2023-06-04 | Departure time: 20:05 | Arrival time: 21:35 | Price starts from 600 |
+| Flight No.: 105 | From: MAK | To:RUH | Flight date: 2023-06-07 | Departure time: 14:00 | Arrival time: 15:50 | Price starts from 400 |
+| Flight No.: 106 | From: MAK | To:TUU | Flight date: 2023-09-07 | Departure time: 03:00 | Arrival time: 09:00 | Price starts from 600 |
+--------------------------------------------------------------------------------------------------------------------------------------
